@@ -1,2 +1,7 @@
 labs_2023/sentences.csv
 labs_2023/sentences.tar.bz2
+labs_2023/corpus/glove.6B.100d.txt
+labs_2023/corpus/test.txt
+.gitignore
+.gitignore
+labs_2023/corpus/train.txt
