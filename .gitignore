@@ -8,3 +8,9 @@ labs_2023/corpus/train.txt
 labs_2023/corpus/glove.6B.zip
 labs_2023/model.pt
 labs_2023/test_model1.out
+labs_2023/ita-eng.zip
+labs_2023/ara.txt
+.gitignore
+labs_2023/ara_simple_params_v4.pth
+labs_2023/ita_simple_params_v4.pth
+labs_2023/ita.txt
