@@ -12,3 +12,18 @@ The goal of this lab is to create an index of all the words in a set of document
 
 # Lab2: Language Models
 In this lab, we aim to calculate the probability of a sentence using Unigrams, Bigrams and Trigrams. Then we write a program that predicts the next word using the last two words in a sentence.
+
+# Lab3: Byte-Pair Encoding
+In this lab we discussed the sub-word tokenization using Byte-Pair Encoding and the Unigram
+model techniques.
+
+# Lab4: Language Detector
+The purpose of this lab is classifying languages using neural networks with sklearn and PyTorch
+libraries. The program is inspired by Google Compact Language Detector, version 3 (CLD3), a
+neural network architecture for language identification.
+
+# Lab5: Chunker
+On this lab we trained different recurrent networks to predict the syntactic groups of each
+word in a sentence.
+
+# Lab6: Training the Transformer from "Attention Is All You Need"
