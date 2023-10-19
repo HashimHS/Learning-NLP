@@ -19,7 +19,7 @@ model techniques.
 
 # Lab4: Language Detector
 The purpose of this lab is classifying languages using neural networks with sklearn and PyTorch
-libraries. The program is inspired by Google Compact Language Detector, version 3 (CLD3), a
+libraries. The program is inspired by Google Compact Language Detector, version 3 [(CLD3)](https://github.com/google/cld3), a
 neural network architecture for language identification.
 
 # Lab5: Chunker
