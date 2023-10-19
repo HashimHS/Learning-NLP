@@ -27,3 +27,4 @@ On this lab we trained different recurrent networks to predict the syntactic gro
 word in a sentence.
 
 # Lab6: Training the Transformer from "Attention Is All You Need"
+In this lab we train the Transformer Architecture from the famous paper "Attention Is All You Need" that had a profound impact not just on natural language processing but all fields of machine learning and AI.
